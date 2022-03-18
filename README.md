@@ -1,1 +1,1 @@
-!(/screenshot.png)
+![Screenshot of website](/screenshot.png?raw=true "Screenshot")
