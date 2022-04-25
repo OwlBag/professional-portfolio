@@ -196,6 +196,11 @@ section .section-title {
     background-size: cover;
 }
 
+.group-project-1 {
+    background-image: url(../images/group-project-1-demo.png);
+    background-size: cover;
+}
+
 .placeholder {
     background-image: url(../images/placeholder-demo.png);
     background-size: cover;
